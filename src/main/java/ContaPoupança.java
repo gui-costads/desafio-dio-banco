@@ -18,7 +18,7 @@ public class ContaPoupança extends Conta {
         System.out.printf("Saldo: %.2f\n", this.saldo);
         System.out.printf("Rentabilidade mensal com saldo atual = %.2f\n", rendimento);
 
-        System.out.println("=====////////////////=====");
+        System.out.println("=====////////////////=====\n");
     }
 
 

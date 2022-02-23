@@ -10,7 +10,7 @@ public class ContaCorrente extends Conta{
         System.out.printf("Agencia: %d\n", this.agencia);
         System.out.printf("Numero da conta : %d\n", this.numero);
         System.out.printf("Saldo: %.2f\n", this.saldo);
-        System.out.println("=====////////////////=====");
+        System.out.println("=====////////////////=====\n");
     }
 
 }
